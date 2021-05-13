@@ -6,4 +6,9 @@
 ## What is a deliverable?
 * A deliverable is a product or service produced or provided as part of a project
 
-### The five project management process groups are initiating, planning, executing, monitoring and controlling, and closing
+### The five project management process groups are
+* initiating
+*  planning
+*  executing
+*  monitoring and controlling
+*  closing
